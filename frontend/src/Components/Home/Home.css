@@ -1,0 +1,41 @@
+/* 
+.homes_main_block
+{
+    
+    width: 100%;
+    /* background-image: url("./landingpage.jpg"); */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.icons
+{
+    position: fixed;
+    top:77%;
+    font-size: 3.5rem;
+    left: 95%;
+    color: black;
+    z-index: 10;
+} */
+
+
+.chat-division {
+    background: #f5f8fb;
+    border-radius: 10px;
+    box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.15);
+    font-family: monospace;
+    position: fixed;
+    bottom: 32px;
+    top: initial;
+    right: 32px;
+    left: initial;
+    height: 520px;
+    z-index: 999;
+    transform: scale(1);
+    transform-origin: bottom right;
+    transition: transform 0.3s ease;
+    
+}
+
+
+  

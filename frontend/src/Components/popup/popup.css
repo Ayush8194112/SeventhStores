@@ -1,0 +1,92 @@
+/* 
+.cros_icons
+{
+    font-size: 2.5rem;
+    position: fixed;
+    color: rgb(164, 160, 160);
+    left: 96%;
+   cursor: pointer;
+    top:25%;
+}
+.popups
+{
+    height: 55%;
+    width:25%;
+    border-radius: 8px;
+    background :red;
+     border: 0.6px solid white;
+     background-color: white;
+     color: black;
+    position: fixed;
+    top:30%;
+    box-shadow: 2px 3px 8px 5px rgb(103, 102, 102);
+
+
+    left: 74%;
+} 
+
+
+.footer-logo{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+     background-image: url("./chatbotimage.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.footer-logo p{
+    color: #383838;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+
+.chat_bot_main_box
+{
+    box-sizing: border-box;
+    
+}
+.select_option
+{
+    
+    padding-left: 5%;
+    display: flex;
+
+    flex-direction: column;
+    gap: 15px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+.select{
+    width: 40%;
+    background-color: red; 
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+
+}
+.select>div
+{
+    box-sizing: border-box;
+    margin-left: 10px;
+}
+#select_wowmen >input
+{
+    margin-left: -19px;
+}
+.message1,.message2
+{
+    box-sizing: border-box;
+    margin-left: 18px;
+    background-color: pink;
+    margin-top: 10px;
+    height: 6vh;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 8px;
+    text-transform: capitalize;
+    width: 90%;
+
+} */
